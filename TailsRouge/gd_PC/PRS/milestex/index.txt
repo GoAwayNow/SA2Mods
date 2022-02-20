@@ -1,0 +1,8 @@
+1150,ttx_01.png,64x64
+1106,rgtx_02.png,64x64
+1400,ttx_00.png,64x64
+1151,rgtx_foot0.png,64x64
+1152,rgtx_heart.png,64x64
+1153,rgx_shoes.png,64x64
+1112,rgx_shoes2.png,32x32
+
